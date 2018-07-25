@@ -1,0 +1,36 @@
+@import "Header/Menu/menu.scss";
+@import "../../../node_modules/bootstrap3/dist/css/bootstrap.min.css";
+@import "../assets/css/style.scss";
+@import "../assets/css/_footer.scss";
+@import "../assets/css/_general.scss";
+/*@import "../assets/css/_header.scss";*/
+@import "../assets/css/_hero.scss";
+@import "../assets/css/_nav.scss";
+@import "../assets/css/_sections.scss";
+@import "../assets/css/_variables.scss";
+@import "../assets/lib/animate-css/animate.min.css";
+@import "./AsyncHomeRoute/home.scss";
+
+/*
+html {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+!* Inline our ul for our menu *!
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+ul li { display: inline; margin: 0 .5rem; }
+*/
